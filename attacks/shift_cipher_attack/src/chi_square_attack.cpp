@@ -6,6 +6,9 @@
 
 using namespace std;
 
+
+string decryptText(const string& text, int key);
+
 const double englishFrequency[26] = {
     8.167, 1.492, 2.782, 4.253, 12.702,
     2.228, 2.015, 6.094, 6.966, 0.153,
@@ -15,24 +18,6 @@ const double englishFrequency[26] = {
     0.074
 };
 
-string decryptText(const string& text, int key) {
-    string result;
-
-    for (char ch : text) {
-        if (isupper(ch)) {
-            result += char((ch - 'A' - key + 26) % 26 + 'A');
-        }
-        else if (islower(ch)) {
-            result += char((ch - 'a' - key + 26) % 26 + 'a');
-        }
-        else {
-            result += ch;
-        }
-    }
-
-    return result;
-}
-
 double chiSquare(const string& text) {
 
     int observed[26] = {0};
@@ -40,9 +25,11 @@ double chiSquare(const string& text) {
 
     for (char ch : text) {
 
-        if (isalpha(ch)) {
+        if (isalpha(static_cast<unsigned char>(ch))) {
 
-            char lower = tolower(ch);
+            char lower =
+                static_cast<char>(
+                    tolower(static_cast<unsigned char>(ch)));
 
             observed[lower - 'a']++;
             totalLetters++;
@@ -58,19 +45,24 @@ double chiSquare(const string& text) {
     for (int i = 0; i < 26; i++) {
 
         double expected =
-            englishFrequency[i] * totalLetters / 100.0;
+            englishFrequency[i] *
+            totalLetters / 100.0;
 
         if (expected > 0) {
-            double difference = observed[i] - expected;
 
-            score += (difference * difference) / expected;
+            double difference =
+                observed[i] - expected;
+
+            score +=
+                (difference * difference) / expected;
         }
     }
 
     return score;
 }
 
-pair<int, string> chiSquareAttack(const string& ciphertext) {
+pair<int, string> chiSquareAttack(
+    const string& ciphertext) {
 
     int bestKey = 0;
     double bestScore = 1e18;
@@ -78,11 +70,14 @@ pair<int, string> chiSquareAttack(const string& ciphertext) {
 
     for (int key = 0; key < 26; key++) {
 
-        string plaintext = decryptText(ciphertext, key);
+        string plaintext =
+            decryptText(ciphertext, key);
 
-        double score = chiSquare(plaintext);
+        double score =
+            chiSquare(plaintext);
 
         if (score < bestScore) {
+
             bestScore = score;
             bestKey = key;
             bestPlaintext = plaintext;
