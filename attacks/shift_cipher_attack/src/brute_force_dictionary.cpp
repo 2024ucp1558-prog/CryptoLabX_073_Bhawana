@@ -3,29 +3,13 @@
 #include <sstream>
 #include <string>
 #include <unordered_set>
-#include <vector>
 #include <algorithm>
 #include <cctype>
 
 using namespace std;
 
-string decryptText(const string& text, int key) {
-    string result;
 
-    for (char ch : text) {
-        if (isupper(ch)) {
-            result += char((ch - 'A' - key + 26) % 26 + 'A');
-        }
-        else if (islower(ch)) {
-            result += char((ch - 'a' - key + 26) % 26 + 'a');
-        }
-        else {
-            result += ch;
-        }
-    }
-
-    return result;
-}
+string decryptText(const string& text, int key);
 
 unordered_set<string> loadDictionary(const string& filename) {
     unordered_set<string> dictionary;
@@ -45,8 +29,9 @@ unordered_set<string> loadDictionary(const string& filename) {
     return dictionary;
 }
 
-int dictionaryScore(const string& text,
-                    const unordered_set<string>& dictionary) {
+int dictionaryScore(
+    const string& text,
+    const unordered_set<string>& dictionary) {
 
     stringstream ss(text);
     string word;
@@ -57,8 +42,10 @@ int dictionaryScore(const string& text,
         string cleanWord;
 
         for (char ch : word) {
-            if (isalpha(ch)) {
-                cleanWord += tolower(ch);
+            if (isalpha(static_cast<unsigned char>(ch))) {
+                cleanWord +=
+                    static_cast<char>(tolower(
+                        static_cast<unsigned char>(ch)));
             }
         }
 
@@ -82,7 +69,9 @@ pair<int, string> dictionaryAttack(
 
         string plaintext = decryptText(ciphertext, key);
 
-        int score = dictionaryScore(plaintext, dictionary);
+        int score = dictionaryScore(
+            plaintext,
+            dictionary);
 
         if (score > bestScore) {
             bestScore = score;
