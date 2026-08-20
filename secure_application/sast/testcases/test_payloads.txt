@@ -1,0 +1,17 @@
+=====================================================
+TEST CASES FOR E-COMMERCE VULNERABILITIES
+=====================================================
+
+1. SQL Injection (Login Bypass):
+   - Input Username: admin' OR '1'='1
+   - Input Password: dummy
+   - Expected Result: Authentication bypass triggered by arbitrary SQL execution.
+
+2. Price Manipulation:
+   - Input Item Price: -50.00 or 0.01
+   - Input Quantity: 2
+   - Expected Result: Unvalidated input processes negative or manipulated checkout total.
+
+3. Insecure Direct Object Reference (IDOR):
+   - Input Order ID: 101, 102, 103
+   - Expected Result: Users can view private order details of other accounts without permission checks.

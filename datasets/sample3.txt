@@ -1,0 +1,5 @@
+Python is an easy-to-learn programming language used worldwide.
+It supports object-oriented programming, file handling, networking, and data analysis.
+Python has a simple syntax that makes programming easier for beginners.
+Many universities use Python to teach computer science courses.
+The language has thousands of useful libraries for different applications.

@@ -1,0 +1,1000 @@
+ 1057  gedit mergesort.c
+ 1058  gcc mergesort.c
+ 1059  ./a.out
+ 1060  gedit mergesort.c
+ 1061  gcc mergesort.c
+ 1062  ./a.out
+ 1063  gedit mergesort.c
+ 1064  gcc mergesort.c
+ 1065  ./a.out
+ 1066  gedit mergesort.c
+ 1067  gcc mergesort.c
+ 1068  ./a.out
+ 1069  gedit mergesort.c
+ 1070  gcc mergesort.c
+ 1071  ./a.out
+ 1072  gedit countsort.c
+ 1073  gcc countsort.c
+ 1074  ./a.out
+ 1075  gedit countsort.c
+ 1076  gcc countsort.c
+ 1077  ./a.out
+ 1078  gedit countsort.c
+ 1079  gcc countsort.c
+ 1080  ./a.out
+ 1081  gedit countsort.c
+ 1082  gcc countsort.c
+ 1083  ./a.out
+ 1084  gedit countsort.c
+ 1085  gcc countsort.c
+ 1086  ./a.out
+ 1087  gedit countsort.c
+ 1088  gcc countsort.c
+ 1089  ./a.out
+ 1090  gedit mergesort.c
+ 1091  gcc mergesort.c
+ 1092  ./a.out
+ 1093  gedit mergesort.c
+ 1094  gcc mergesort.c
+ 1095  ./a.out
+ 1096  gedit mergesort.c
+ 1097  gcc mergesort.c
+ 1098  ./a.out
+ 1099  gedit mergesort.c
+ 1100  gcc mergesort.c
+ 1101  ./a.out
+ 1102  gedit countsort.c
+ 1103  gcc mergesort.c
+ 1104  ./a.out
+ 1105  gcc countsort.c
+ 1106  ./a.out
+ 1107  gedit mergesort.c
+ 1108  gcc mergesort.c
+ 1109  ./a.out
+ 1110  gedit countsort.c
+ 1111  gcc countsort.c
+ 1112  ./a.out
+ 1113  gedit mergesort.c
+ 1114  gedit pdcass4q1.c
+ 1115  gcc pdcass5q1.c
+ 1116  gcc pdcass4q1.c
+ 1117  gcc -fopenmp pdcass4q1.c
+ 1118  ./a.out
+ 1119  gedit pdcass4q2.c
+ 1120  gcc -fopenmp pdcass4q2.c
+ 1121  ./a.out
+ 1122  gedit pdcass4q2.c
+ 1123  gcc -fopenmp pdcass4q2.c
+ 1124  ./a.out
+ 1125  gedit pdcass4q3.c
+ 1126  gcc -fopenmp pdcass4q3.c
+ 1127  ./a.out
+ 1128  gcc -fopenmp pdcass4q1.c
+ 1129  ./a.out
+ 1130  mkdir althea.c
+ 1131  cd althea.c
+ 1132  nano althea.c
+ 1133  gcc althea.c
+ 1134  nano althea.c
+ 1135  gcc althea.c
+ 1136  nano althea.c
+ 1137  nano insertion.c
+ 1138  nano althea.c
+ 1139  gcc althea.c
+ 1140  nano insertion.c
+ 1141  nano althea.c
+ 1142  nano insertion.c
+ 1143  nano althea.c
+ 1144  gcc althea.c
+ 1145  nano althea.c
+ 1146  nano insertion.c
+ 1147  jupyter
+ 1148  coolab
+ 1149  printenv > "/tmp/tmp-2659G2zkS3B2mIYJ.txt"
+ 1150  printenv > "/tmp/tmp-3611gm597JrRt2rO.txt"
+ 1151  gcc 2025ucp1029.c
+ 1152  ./a.out
+ 1153  gcc 2025ucp1029.c
+ 1154  ./a.out
+ 1155  gcc 2025ucp1029.c
+ 1156  ./a.out
+ 1157  gcc 2025ucp1029.c
+ 1158  ./a.out
+ 1159  gcc 2025ucp1029.c
+ 1160  ./a.out
+ 1161  gcc 2025ucp1029.c
+ 1162  ./a.out
+ 1163  gcc 2025ucp1029.c
+ 1164  ./a.out
+ 1165  gcc 2025ucp1029.c
+ 1166  ./a.out
+ 1167  gcc 2025ucp1029.c
+ 1168  ./a.out
+ 1169  gcc 2025ucp1029.c
+ 1170  ./a.out
+ 1171  gcc 2025ucp1029.c
+ 1172  ./a.out
+ 1173  gcc 2025ucp1029.c
+ 1174  ./a.out
+ 1175  gcc 2025ucp1029.c
+ 1176  ./a.out
+ 1177  gcc 2025ucp1029.c
+ 1178  ./a.out
+ 1179  gcc 2025ucp1029.c
+ 1180  ./a.out
+ 1181  gcc 2025ucp1029.c
+ 1182  ./a.out
+ 1183  gcc 2025ucp1029.c
+ 1184  ./a.out
+ 1185  gcc 2025ucp1029.c
+ 1186  ./a.out
+ 1187  gcc 2025ucp1029.c
+ 1188  ./a.out
+ 1189  gcc 2025ucp1029.c
+ 1190  ./a.out
+ 1191  gcc 2025ucp1029.c
+ 1192  ./a.out
+ 1193  gcc 2025ucp1029.c
+ 1194  ./a.out
+ 1195  gcc q222.c
+ 1196  ./a.out
+ 1197  gcc q222.c
+ 1198  ./a.out
+ 1199  gcc q222.c
+ 1200  ./a.out
+ 1201  gcc q222.c
+ 1202  ./a.out
+ 1203  gcc q222.c
+ 1204  ./a.out
+ 1205  gcc q222.c
+ 1206  ./a.out
+ 1207  gcc q222.c
+ 1208  ./a.out
+ 1209  gcc q222.c
+ 1210  ./a.out
+ 1211  gcc q33.c
+ 1212  ./a.out
+ 1213  gcc q33.c
+ 1214  ./a.out
+ 1215  gcc q33.c
+ 1216  ./a.out
+ 1217  gcc q33.c
+ 1218  ./a.out
+ 1219  sudo apt update
+ 1220  sudo apt install ./Packet_Tracer*.deb
+ 1221  ls
+ 1222  sudo apt install ./CiscoPacketTracer_900_Ubuntu_64bit.deb
+ 1223  sudo apt install ./CiscoPacketTracer_821_Ubuntu_64bit.deb
+ 1224  cd downloads
+ 1225  cd Downloads
+ 1226  packettracer
+ 1227  /opt/pt/packettracer
+ 1228  packettracer
+ 1229  sudo apt remove packettracer
+ 1230  sudo kill -9 23890
+ 1231  sudo apt remove packettracer
+ 1232  sudo dpkg --configure -a
+ 1233  sudo apt --fix-broken install
+ 1234  sudo apt remove packettracer
+ 1235  sudo dpkg --remove --force-remove-reinstreq packettracer
+ 1236  sudo apt clean
+ 1237  sudo apt update
+ 1238  cd ~/Downloads
+ 1239  sudo apt install ./CiscoPacketTracer_821_Ubuntu_64bit.deb
+ 1240  packettracer
+ 1241  packettracer
+ 1242  gedit 1st.cpp
+ 1243  gcc -fopenmp 1st.cpp -o 1st
+ 1244  gedit 1st.cpp
+ 1245  cd Desktop
+ 1246  nano q1.cpp
+ 1247  cd Desktop
+ 1248  nano q1.c
+ 1249  g++ q1.c
+ 1250  nano q1.c
+ 1251  g++ q1.c
+ 1252  ./a.out
+ 1253  nano q1.c
+ 1254  g++ q1.c
+ 1255  ./a.out
+ 1256  nano q1.c
+ 1257  g++ q1.c
+ 1258  ./a.out
+ 1259  nano q1.c
+ 1260  g++ q1.c
+ 1261  ./a.out
+ 1262  nano q1.c
+ 1263  g++ q1.c
+ 1264  ./a.out
+ 1265  nano q1.c
+ 1266  ./a.out
+ 1267  g++ q1.c
+ 1268  ./a.out
+ 1269  nano q1.c
+ 1270  g++ q1.c
+ 1271  nano q1.c
+ 1272  g++ q1.c
+ 1273  ./a.out
+ 1274  nano q1.c
+ 1275  g++ q1.c
+ 1276  nano q1.c
+ 1277  g++ q1.c
+ 1278  nano q1.c
+ 1279  g++ q1.c
+ 1280  ./a.out
+ 1281  nano q1.c
+ 1282  ckear
+ 1283  clear
+ 1284  g++ q1.c
+ 1285  nano q1.c
+ 1286  ./a.out
+ 1287  g++ q1.c
+ 1288  nano q1.c
+ 1289  sudo wireshark
+ 1290  gcc -fno-stack-protector -z execstack -no-pie -o a c.c
+ 1291  ./a
+ 1292  gcc -fno-stack-protector -z execstack -no-pie -o a c.c
+ 1293  ./a
+ 1294  ./a Hello
+ 1295  gcc -fno-stack-protector -z execstack -no-pie -o a c.c
+ 1296  ./a Hello
+ 1297  ./a Hellooooooooooooooooooooooooooooooooooooooooooooooooo
+ 1298  objdump -d a | grep buffer1
+ 1299  objdump -d a | grep main
+ 1300  gcc -fno-stack-protector -z execstack -no-pie -o a c.c
+ 1301  ./a Hellooooooooooooooooooooooooooooooooooooooooooooooooo
+ 1302  gcc -fno-stack-protector -z execstack -no-pie -o a c.c
+ 1303  ./a Hellooooooo
+ 1304  gcc -fno-stack-protector -z execstack -no-pie -o a c.c
+ 1305  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*16)")
+ 1306  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*17)")
+ 1307  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*20)")
+ 1308  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*32)")
+ 1309  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*25)")
+ 1310  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*28)")
+ 1311  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*27)")
+ 1312  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*26)")
+ 1313  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*32)")
+ 1314  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*26)")
+ 1315  ./a $(python3 -c "import sys; sys.stdout.buffer.write(b'A'*16)")
+ 1316  gcc floyd.c
+ 1317  clear
+ 1318  gedit floyd.c
+ 1319  gcc -fopenmp floyd.c -o floyd
+ 1320  ./floyd
+ 1321  jupyter notebook
+ 1322  gcc kanu.c
+ 1323  cd ulala
+ 1324  gcc chhunana.c
+ 1325  ./a.out
+ 1326  gcc chhunana.c
+ 1327  ./a.out
+ 1328  gcc chhunana.c
+ 1329  ./a.out
+ 1330  gcc chhunana.c
+ 1331  ./a.out
+ 1332  gcc chhunana.c
+ 1333  ./a.out
+ 1334  gcc chhunana.c
+ 1335  ./a.out
+ 1336  gcc chhunana.c
+ 1337  ./a.out
+ 1338  gcc chhunana.c
+ 1339  ./a.out
+ 1340  gcc chhunana.c
+ 1341  ./a.out
+ 1342  gcc chhunana.c
+ 1343  ./a.out
+ 1344  gcc chhunana.c
+ 1345  ./a.out
+ 1346  gcc chhunana.c
+ 1347  ./a.out
+ 1348  gcc chhunana.c
+ 1349  ./a.out
+ 1350  mysql -u user A -p
+ 1351  mysql -u userA -p
+ 1352  mysql -u user A -p
+ 1353  clear
+ 1354  mysql -u userA -p
+ 1355  mysql -u root -p
+ 1356  mysql -u root 
+ 1357  mysql -u root -p
+ 1358  sudo mysql -u root -p
+ 1359  cd ..
+ 1360  mysql -u userc -p
+ 1361  cd ..
+ 1362  mysql -u userb -p
+ 1363  sudo mysql -u root
+ 1364  mysql>  GRANT SELECT ON University_DB.Student TO 'user A'@'localhost';
+ 1365  flush privileges;
+ 1366  cd ..
+ 1367  sudo mysql -u root
+ 1368  sudo mysql -u root -p
+ 1369  mysql -u root -p
+ 1370  cd ..
+ 1371  mysql -u usera -p
+ 1372  nano tree.c
+ 1373  gcc tree.c
+ 1374  nano tree.c
+ 1375  gcc tree.c
+ 1376  nano tree.c
+ 1377  gcc tree.c
+ 1378  nano tree.c
+ 1379  gcc tree.c
+ 1380  nano tree.c
+ 1381  gcc tree.c
+ 1382  nano tree.c
+ 1383  gcc tree.c
+ 1384  nano tree.c
+ 1385  gcc tree.c
+ 1386  ./a.out
+ 1387  nano tree.c
+ 1388  mkdir Vishesh1861 
+ 1389  cd Vishesh1861
+ 1390  gedit tree.c
+ 1391  gcc tree.c
+ 1392  ./a.out
+ 1393  gedit tree.c
+ 1394  gcc tree.c
+ 1395  gedit tree.c
+ 1396  gcc tree.c
+ 1397  ./a.out
+ 1398  gedit linklist.c
+ 1399  gcc tree.c
+ 1400  gcc linklist.c
+ 1401  gedit linklist.c
+ 1402  gcc linklist.c
+ 1403  gedit linklist.c
+ 1404  gcc linklist.c
+ 1405  gedit linklist.c
+ 1406  gcc linklist.c
+ 1407  gedit linklist.c
+ 1408  gcc linklist.c
+ 1409  gedit linklist.c
+ 1410  gcc linklist.c
+ 1411  ./a.out
+ 1412  gedit linklist.c
+ 1413  gcc linklist.c
+ 1414  ./a.out
+ 1415  gedit linklist.c
+ 1416  gcc linklist.c
+ 1417  ./a.out
+ 1418  gedit linklist.c
+ 1419  gcc linklist.c
+ 1420  gedit linklist.c
+ 1421  gcc linklist.c
+ 1422  ./a.out
+ 1423  gedit linklist.c
+ 1424  gcc linklist.c
+ 1425  ./a.out
+ 1426  gedit linklist.c
+ 1427  gcc linklist.c
+ 1428  ./a.out
+ 1429  gedit linklist2.c
+ 1430  gcc linklist2.c
+ 1431  gedit linklist2.c
+ 1432  gcc linklist2.c
+ 1433  ./a.out
+ 1434  gedit linklist2.c
+ 1435  gcc linklist2.c
+ 1436  ./a.out
+ 1437  gedit linklist2.c
+ 1438  gcc linklist2.c
+ 1439  ./a.out
+ 1440  gedit linklist2.c
+ 1441  gcc linklist2.c
+ 1442  ./a.out
+ 1443  gedit linklist2.c
+ 1444  gcc linklist2.c
+ 1445  gedit linklist2.c
+ 1446  gcc linklist2.c
+ 1447  ./a.out
+ 1448  gedit linklist2.c
+ 1449  cd Vishesh1861
+ 1450  gedit linklist2.c
+ 1451  mysql -u root -p
+ 1452  cd 1157
+ 1453  python3 client.py
+ 1454  gedit 123.c
+ 1455  gcc 123.c
+ 1456  ./a.out
+ 1457  gedit 12.c
+ 1458  gedit 123.c
+ 1459  gcc 12.c
+ 1460  gcc 123.c
+ 1461  ./a.out
+ 1462  gedit 12.c
+ 1463  gedit 123.c
+ 1464  gedit 12.c
+ 1465  gcc 12.c
+ 1466  ./a.out
+ 1467  gedit 12.c
+ 1468  gcc 12.c
+ 1469  ./a.out
+ 1470  gedit 123.c
+ 1471  gcc 12.c
+ 1472  ./a.out
+ 1473  gcc 123.c
+ 1474  ./a.out
+ 1475  gedit 123.c
+ 1476  gedit 12.c
+ 1477  gedit 123.c
+ 1478  gcc 123.c
+ 1479  ./a.out
+ 1480  gedit 123.c
+ 1481  gedit height.c
+ 1482  gedit 123.c
+ 1483  gedit height.c
+ 1484  gedit 123.c
+ 1485  gedit height.c
+ 1486  gcc height.c
+ 1487  ./a.out
+ 1488  gcc height.c
+ 1489  ./a.out
+ 1490  gedit height.c
+ 1491  gcc 123.c
+ 1492  ./a.out
+ 1493  gcc 12.c
+ 1494  ./a.out
+ 1495  gcc height.c
+ 1496  ./a.out
+ 1497  gedit 123.c
+ 1498  gedit 12.c
+ 1499  gcc height.c
+ 1500  gedit height.c
+ 1501  gedit 123.c
+ 1502  gcc 123.c
+ 1503  ./a.out
+ 1504  sudo apt update
+ 1505  sudo apt install snort -y
+ 1506  sudo dpkg-reconfigure snort
+ 1507  sudo apt --fix-broken install
+ 1508  sudo apt install snort tcpdump python3-pip
+ 1509  pip3 install scapy requests 1
+ 1510  pip3 install scapy
+ 1511  sudo nano /etc/snort/rules/local.rules
+ 1512  sudo nano /etc/snort/snort.conf
+ 1513  sudo snort -T -c /etc/snort/snort.conf
+ 1514  sudo nano /etc/snort/rules/local.rules
+ 1515  sudo snort -T -c /etc/snort/snort.conf
+ 1516  sudo snort -i lo -A console -c /etc/snort/snort.conf
+ 1517  nano icmp_sweep.py
+ 1518  python3 icmp_sweep.py
+ 1519  sudo python3 icmp_sweep.py
+ 1520  sudo pip3 install scapy
+ 1521  sudo python3 icmp_sweep.py
+ 1522  sudo snort -T -c /etc/snort/snort.conf
+ 1523  sudo snort -i lo -A console -c /etc/snort/snort.conf
+ 1524  sudo nano /etc/snort/rules/local.rules
+ 1525  python3 -m http.server 80
+ 1526  sudo python3 -m http.server 80
+ 1527  sudo lsof -i :80
+ 1528  python3 -m http.server 8080
+ 1529  sudo snort -i lo -A console -c /etc/snort/snort.conf
+ 1530  sudo nano /etc/snort/rules/local.rules
+ 1531  echo "malicious file content" > malicious.txt
+ 1532  sudo snort -T -c /etc/snort/snort.conf
+ 1533  import requests
+ 1534  nano test.py
+ 1535  python3 test.py
+ 1536  sudo python3 test.py
+ 1537  python3 test.py
+ 1538  sudo nano /etc/snort/rules/local.rules
+ 1539  cd ~
+ 1540  python3 -m http.server 8080
+ 1541  sudo snort -T -c /etc/snort/snort.conf
+ 1542  sudo snort -i lo -A console -c /etc/snort/snort.conf
+ 1543  python3 -c "import requests; requests.get('http://127.0.0.1:8080/malicious.txt')"
+ 1544  nano d1.c
+ 1545  gcc d1.c
+ 1546  nano d1.c
+ 1547  gcc d1.c
+ 1548  nano d1.c
+ 1549  gcc d1.c
+ 1550  nano d1.c
+ 1551  gcc d1.c
+ 1552  ./a.out
+ 1553  nano d1.c
+ 1554  ./a.out
+ 1555  gcc d1.c
+ 1556  ./a.out
+ 1557  nano d1.c
+ 1558  gcc d1.c
+ 1559  ./a.out
+ 1560  nano d1.c
+ 1561  ./a.out
+ 1562  gcc d1.c
+ 1563  ./a.out
+ 1564  nano d1.c
+ 1565  nano d2.c
+ 1566  nano d1.c
+ 1567  gcc d1.c
+ 1568  ./a.out
+ 1569  nano d1.c
+ 1570  gcc d1.c
+ 1571  ./a.out
+ 1572  nano d1.c
+ 1573  gcc d1.c
+ 1574  nano d1.c
+ 1575  gcc d1.c
+ 1576  ./a.out
+ 1577  nano d1.c
+ 1578  gcc -fopen q1.c
+ 1579  gcc -fopenmp q1.c
+ 1580  cd lab6
+ 1581  gcc -fopenmp q1.c
+ 1582  ./a.out
+ 1583  clear
+ 1584  gedit 7a.c
+ 1585  gedit 7b.c
+ 1586  gedit 7c.c
+ 1587  gcc 7a.c -o 7a -lpthread
+ 1588  ./7a
+ 1589  gcc 7b.c -o 7b -lpthread
+ 1590  ./7b
+ 1591  gcc 7c.c -o 7c -lpthread
+ 1592  ./7c
+ 1593  gedit 7a.c
+ 1594  gedit 7b.c
+ 1595  gedit 7c.c
+ 1596  gedit 7a.c
+ 1597  set ns
+ 1598  set tracefile [open out.tr w]
+ 1599  $ns trace-all $tracefile
+ 1600  ns
+ 1601  gedit topology.tcl
+ 1602  ns topology.tcl
+ 1603  gedit topology.tcl
+ 1604  ns topology.tcl
+ 1605  gedit topology.tcl
+ 1606  mongod --v
+ 1607  mongosh
+ 1608  sudo systemctl stop mongod
+ 1609  sudo apt-get purge "mongodb-org*"
+ 1610  clear
+ 1611  sudo apt update
+ 1612  sudo apt istall -y mongodb-org
+ 1613  cd Downloads
+ 1614  tar -xvzf mongodb-linux-aarch64-amazon2023-8.2.6
+ 1615  cd mongodb-linux-aarch64-amazon2023-8.2.6
+ 1616  ./bin/mongod --dpath ~/data/db
+ 1617  mkdir -p ~/data/db
+ 1618  ./bin/mongod --dpath ~/data/db
+ 1619  sudo systemctl stop mongod
+ 1620  sudo apt-get install gnupg curl
+ 1621  curl -fsSL https://pgp.mongodb.com/server-8.0.asc |    sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg    --dearmor
+ 1622  echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] https://repo.mongodb.com/apt/ubuntu noble/mongodb-enterprise/8.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise-8.2.list
+ 1623  sudo apt-get update
+ 1624  sudo apt-get install -y mongodb-enterprise
+ 1625  sudo apt-get update
+ 1626  sudo apt-get --fix-broken install
+ 1627  sudo apt-get upgrade
+ 1628  dpkg --get-selections | grep hold
+ 1629  cat /etc/apt/sources.list.d/mongodb-org-*.list
+ 1630  wget -qO - https://pgp.mongodb.com/server-7.0.asc | sudo apt-key add -
+ 1631  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-enterprise/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise.list
+ 1632  sudo apt-get update
+ 1633  sudo apt-get install mongodb-enterprise-database
+ 1634  sudo apt-get install mongodb-enterprise-tools
+ 1635  sudo apt-get install mongodb-enterprise
+ 1636  lsb_release -a
+ 1637  sudo apt-get clean
+ 1638  sudo rm -rf /var/lib/apt/lists/*
+ 1639  sudo apt-get update
+ 1640  lsb_release -a
+ 1641  apt-cache policy mongodb-enterprise
+ 1642  mongosh
+ 1643  sudo apt-get install -y mongodb-enterprise
+ 1644  lsb_release -a
+ 1645  sudo rm -f /etc/apt/sources.list.d/mongodb*.list
+ 1646  sudo apt-get update
+ 1647  wget -qO - https://pgp.mongodb.com/server-7.0.asc | sudo gpg --dearmor -o /usr/share/keyrings/mongodb-server-7.0.gpg
+ 1648  echo "deb [ arch=amd64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-enterprise/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise.list
+ 1649  sudo apt-get update
+ 1650  sudo apt-get --fix-broken install
+ 1651  sudo apt-get install -y mongodb-enterprise
+ 1652  dpkg --print-architecture
+ 1653  apt-cache policy mongodb-enterprise
+ 1654  wget -qO- https://www.mongodb.org/static/pgp/server-6.0.asc | sudo gpg --dearmor -o /usr/share/keyrings/mongodb-server-6.0.gpg
+ 1655  echo "deb [ arch=amd64 signed-by=/usr/share/keyrings/mongodb-server-6.0.gpg ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-enterprise/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise.list
+ 1656  sudo apt-get update
+ 1657  sudo apt-get install -y mongodb-enterprise
+ 1658  sudo apt-get update
+ 1659  apt-cache policy mongodb-enterprise
+ 1660  wget -qO- https://www.mongodb.org/static/pgp/server-7.0.asc | sudo gpg --dearmor -o /usr/share/keyrings/mongodb-server-7.0.gpg
+ 1661  echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] http://repo.mongodb.com/apt/ubuntu jammy/mongodb-enterprise/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise-7.0.list
+ 1662  sudo apt update
+ 1663  apt-cache policy mongodb-enterprise
+ 1664  sudo apt-get install -y mongodb-enterprise
+ 1665  lsb_release -a
+ 1666  sudo rm /etc/apt/sources.list.d/mongodb-enterprise.list
+ 1667  wget -qO- https://www.mongodb.org/static/pgp/server-6.0.asc | sudo gpg --dearmor -o /usr/share/keyrings/mongodb-server-6.0.gpg
+ 1668  echo "deb [ arch=amd64 signed-by=/usr/share/keyrings/mongodb-server-6.0.gpg ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-enterprise/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise-6.0.list
+ 1669  sudo apt-get update
+ 1670  sudo apt-get install -y mongodb-enterprise
+ 1671  sudo rm -rf /var/lib/apt/lists/*
+ 1672  sudo apt-get clean
+ 1673  sudo apt-get update
+ 1674  sudo apt-get install mongodb-enterprise-server
+ 1675  wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-enterprise-ubuntu2004-6.0.14.tgz
+ 1676  tar -zxvf mongodb-linux-x86_64-enterprise-ubuntu2004-6.0.14.tgz
+ 1677  sudo cp mongodb-linux-x86_64-enterprise-ubuntu2004-6.0.14/bin/* /usr/local/bin/
+ 1678  lsb_release -a
+ 1679  echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] http://repo.mongodb.com/apt/ubuntu focal/mongodb-enterprise/8.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-enterprise-8.2.list
+ 1680  sudo apt-get update
+ 1681  sudo apt-get install mongodb-enterprise
+ 1682  sudo apt-get install -y mongodb-enterprise mongodb-mongosh-shared-openssl11
+ 1683  sudo apt-get remove -y mongodb-mongosh && sudo apt-get install -y
+ 1684  mongosh
+ 1685  sudo apt-get install -y mongodb-enterprise
+ 1686  sudo systemctl start mongod
+ 1687  sudo systemctl enable mongod
+ 1688  sudo systemctl status mongod
+ 1689  mongosh
+ 1690  nano bst.c
+ 1691  gcc bst.c
+ 1692  nano bst.c
+ 1693  gcc bst.c
+ 1694  nano bst.c
+ 1695  gcc bst.c
+ 1696  nano bst.c
+ 1697  gcc bst.c
+ 1698  ./a.out
+ 1699  nano bst.c
+ 1700  ./a.out
+ 1701  nano bst.c
+ 1702  ./a.out
+ 1703  gcc bst.c
+ 1704  ./a.out
+ 1705  nano bst.c
+ 1706  ./a.out
+ 1707  gcc bst.c
+ 1708  ./a.out
+ 1709  nano bst.c
+ 1710  y
+ 1711  gedit assign2.tcl
+ 1712  ns assign2.tcl
+ 1713  gedit assign2.tcl
+ 1714  ns assign2.tcl
+ 1715  gedit assign2.tcl
+ 1716  ns assign2.tcl
+ 1717  gedit assign2.tcl
+ 1718  ns assign2.tcl
+ 1719  gedit assign2.tcl
+ 1720  ns assign2.tcl
+ 1721  gedit assign2.tcl
+ 1722  mkdir social_engineering_lab
+ 1723  cd social_engineering_lab
+ 1724  nano assignment.md
+ 1725  sudo systemctl stop mongod
+ 1726  cd Downloads
+ 1727  sudo dpkg -i mongodb-compass_1.49.4_amd64.deb
+ 1728  mongodb-compass
+ 1729  mongosh
+ 1730  cd assign78
+ 1731  gcc q1.c
+ 1732  gcc -pthread q1.c
+ 1733  ./a.out
+ 1734  gcc -pthread q2.c
+ 1735  ./a.out
+ 1736  gcc -pthread q3.c
+ 1737  ./a.out
+ 1738  mpicc program.c -o program
+ 1739  mpicc q4.c -o program
+ 1740  ./program
+ 1741  mpicc q4.c -o program
+ 1742  mpirun -np 3 ./program
+ 1743  mpicc q4.c -o program
+ 1744  mpirun -np 3 ./program
+ 1745  mpicc q4.c -o program
+ 1746  mpirun -np 3 ./program
+ 1747  gedit 1.c
+ 1748  mpicc ring_latency.c -o ring
+ 1749  mpicc 1.c -o ring
+ 1750  mpirun -np 4 ./ring
+ 1751  gedit 2.c
+ 1752  mpicc collective.c -o collective
+ 1753  mpicc 2.c -o collective
+ 1754  mpirun -np 4 ./collective
+ 1755  gedit 1.c
+ 1756  sudo mysql -u root -p
+ 1757  mysql -u root -p
+ 1758  mysql -u 'a'@'localhost' -p
+ 1759  clear
+ 1760  gedit 1pdc.c
+ 1761  gcc 1pdc.c -fopenmp
+ 1762  ./out
+ 1763  gcc 1pdc.c -o 1pdc -fopenmp
+ 1764  ./1pdc
+ 1765  gedit 2pdc.c
+ 1766  mpicc 2pdc.c -o 2pdc
+ 1767  mpirun -np 4 ./2pdc
+ 1768  mkdir 2025ucp1909
+ 1769  cd 2025ucp1909
+ 1770  touch q1.c
+ 1771  gedit q1.c
+ 1772  touch q2.c
+ 1773  gedit q2.c
+ 1774  gcc q1.c
+ 1775  gedit q1.c
+ 1776  gcc q1.c
+ 1777  clear
+ 1778  gcc q1.c
+ 1779  gedit q1.c
+ 1780  clear
+ 1781  touch Q1.c
+ 1782  gedit q1.c
+ 1783  gedit Q1.c
+ 1784  gcc Q1.C
+ 1785  gcc Q1.c
+ 1786  CLEAR
+ 1787  clear
+ 1788  gcc q1.c
+ 1789  gcc Q1.c
+ 1790  /.a.out
+ 1791  ./a.out
+ 1792  gedit q2.c
+ 1793  gcc q2.c
+ 1794  gedit q2.c
+ 1795  gcc Q1.c
+ 1796  ./a.out
+ 1797  gedit ete1.c
+ 1798  gcc ete1.c
+ 1799  gedit ete1.c
+ 1800  gcc ete.c
+ 1801  gcc ete1.c
+ 1802  gedit ete1.c
+ 1803  gcc gedit.c
+ 1804  gcc ete1.c
+ 1805  gedit ete1.c
+ 1806  gcc ete1.c
+ 1807  ./a.out
+ 1808  gedit ete1.c
+ 1809  gcc ete1.c
+ 1810  ./a.out
+ 1811  gedit ete1.c
+ 1812  gedit ete2.c
+ 1813  gedit ete1.c
+ 1814  gedit ete2.c
+ 1815  sudo apt-get install vlc
+ 1816  vlc
+ 1817  pwd
+ 1818  sudo apt-get remove vlc
+ 1819  ls
+ 1820  who
+ 1821  uname-a
+ 1822  uname
+ 1823  tree
+ 1824  ls -l
+ 1825  ls
+ 1826  cat d1.c
+ 1827  head d1.c
+ 1828  cmp d1.c d2.c
+ 1829  diff d1.c d2.
+ 1830  diff d1.c d2.c
+ 1831  cat d2.c
+ 1832  less d1.c
+ 1833  more d1.c
+ 1834  grep d1.c
+ 1835  ifconfig
+ 1836  ping google.com
+ 1837  finger mnit
+ 1838  sudo iptables -L
+ 1839  traceroute google.com
+ 1840  gcc -wall d1.c
+ 1841  gcc -Wall d1.c
+ 1842  gcc -Wall -Wextra d1.c
+ 1843  gcc -g d1.c -o h1
+ 1844  ./h1.out
+ 1845  ls
+ 1846  gcc -g d1.c
+ 1847  ./a.out
+ 1848  nslookup
+ 1849  wget https://www.google.com/search?client=ubuntu&hs=9D3&sca_esv=77821bc6db13ead3&channel=fs&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRQDtz5om-6srRFNP4UK_6edrYqFyYjVoLL0-Wmdmyc0u13h2Xl3P-7Fmh0o6KIonLSStrYX7-J-cMLG287nQ7raf0FkoLkOJb1mfQmtNYyMRhn-hrlv2gKJDeHb5aiCA66AyzkImpJHz_-TdiqyVBEHRiSEA&q=pikachu&sa=X&ved=2ahUKEwjTpfSbpveVAxX0kuEIHSuEDfAQtKgLegQIIBAB&biw=1600&bih=703&dpr=1#sv=CAMSURoyKhBlLVZSLTNFbkJVQ3BDWnlNMg5WUi0zRW5CVUNwQ1p5TToOQlF1cGhLUnNIdWtYQ00gBCoXCgFzEhBlLVZSLTNFbkJVQ3BDWnlNGAEwARgHIJPk2b4JSggQARgBIAEoAQ
+ 1850  cd/
+ 1851  netstat -a
+ 1852  sudo tcpdump
+ 1853  ip a
+ 1854  ip adress
+ 1855  ip address
+ 1856  ip addr
+ 1857  ifconfig
+ 1858  python3 main.py
+ 1859  cat outputs/log.txt
+ 1860  nano README.md
+ 1861  tree
+ 1862  git remote add origin <https://github.com/2024ucp1558-prog/CryptoLabX>
+ 1863  echo "# CryptoLabX" >> README.md
+ 1864  git init
+ 1865  git add README.md
+ 1866  git commit -m "first commit"
+ 1867  git branch -M main
+ 1868  git remote add origin git@github.com:2024ucp1558-prog/CryptoLabX.git
+ 1869  git push -u origin main
+ 1870  git branch -M main
+ 1871  git push -u origin main
+ 1872  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git remote add origin <https://github.com/2024ucp1558-prog/CryptoLabX>
+ 1873  bash: syntax error near unexpected token `newline'
+ 1874  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ echo "# CryptoLabX" >> README.md
+ 1875  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git init
+ 1876  Reinitialized existing Git repository in /home/mnit/2024ucp1558/CryptoLabX/.git/
+ 1877  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git add README.md
+ 1878  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git commit -m "first commit"
+ 1879  [master 7c58441] first commit
+ 1880   1 file changed, 7 insertions(+)
+ 1881  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git branch -M main
+ 1882  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git remote add origin git@github.com:2024ucp1558-prog/CryptoLabX.git
+ 1883  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git push -u origin main
+ 1884  git@github.com: Permission denied (publickey).
+ 1885  fatal: Could not read from remote repository.
+ 1886  Please make sure you have the correct access rights
+ 1887  and the repository exists.
+ 1888  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git branch -M main
+ 1889  mnit@mnit-OptiPlex-5040:~/2024ucp1558/CryptoLabX$ git push -u origin main
+ 1890  git@github.com: Permission denied (publickey).
+ 1891  fatal: Could not read from remote repository.
+ 1892  Please make sure you have the correct access rights
+ 1893  and the repository exists.
+ 1894  git remote add origin https://github.com/2024ucp1558-prog/CryptoLabX.git
+ 1895  git remote -v
+ 1896  git remote set-url origin https://github.com/2024ucp1558-prog/CryptoLabX.git
+ 1897  git remote -v
+ 1898  git push -u origin main
+ 1899  cd 
+ 1900  Desktop
+ 1901  cd 2024ucp1558/CryptoLabX
+ 1902  git remote add origin https://github.com/2024ucp1558-prog/cryptographyX.git
+ 1903  git push -u origin main
+ 1904  git remote set-url origin https://github.com/2024ucp1558-prog/cryptography.git
+ 1905  git add .
+ 1906  git commit -m "Completed CryptoLabX Week 1 assignment"
+ 1907  git branch -M main
+ 1908  git push -u origin main
+ 1909  cd 2024ucp1558
+ 1910  mkdir CryptoLabX
+ 1911  cd CryptoLabX
+ 1912  mkdir classical attacks math modern analysis datasets outputs docs tests utils
+ 1913  touch main.py README.md requirements.txt
+ 1914  tree
+ 1915  git init
+ 1916  git add .
+ 1917  git commit -m "Initial project structure"
+ 1918  cd datasets
+ 1919  touch sample1.txt sample2.txt sample3.txt sample4.txt sample5.txt
+ 1920  nano sample1.txt
+ 1921  nano sample2.txt
+ 1922  nano sample3.txt
+ 1923  nano sample4.txt
+ 1924  nano sample5.txt
+ 1925  cd ..
+ 1926  cd .
+ 1927  git remote add origin <https://github.com/2024ucp1558-prog/CryptoLabX>
+ 1928  git remote add origin https://github.com/2024ucp1558-prog/CryptoLabX.git
+ 1929  cd CryptoLabX_Group06
+ 1930  git clone https://github.com/Tanmay083/CryptoLabX_Group06.git
+ 1931  cd ..
+ 1932  git clone https://github.com/Tanmay083/CryptoLabX_Group06.git
+ 1933  mkdir classical attacks math modern analysis datasets outputs docs tests utils
+ 1934  touch main.py README.md requirements.txt
+ 1935  cd datasets
+ 1936  touch books.txt poem.txt story.txt random.txt article.txt
+ 1937  git add .
+ 1938  git commit -m "created project structure"
+ 1939  git config user.name "Tanmay083"
+ 1940  git config user.email "2024ucp1083@mnit.ac.in"
+ 1941  git commit -m "created project structure"
+ 1942  git push
+ 1943  cd ..
+ 1944  git push
+ 1945  cd datasets
+ 1946  rm -rf .git
+ 1947  cd ..
+ 1948  git init
+ 1949  git config user.name "Tanmay083"
+ 1950  git config user.email "2024ucp1083@mnit.ac.in"
+ 1951  it remote add origin https://github.com/Tanmay083/CryptoLabX_Group06.git
+ 1952  git remote add origin https://github.com/Tanmay083/CryptoLabX_Group06.git
+ 1953  git add .
+ 1954  rm -rf CryptoLabX_Group06/.git
+ 1955  git rm --cached CryptoLabX_Group06
+ 1956  git add .
+ 1957  git commit -m "Initial commit: Complete project structure"
+ 1958  git branch -M main
+ 1959  git push -u origin main
+ 1960  ls
+ 1961  mkdir 1083
+ 1962  cd 1083
+ 1963  mkdir CryptoLabX_Group06
+ 1964  cd CryptoLabX_Group06
+ 1965  git init
+ 1966  mkdir classical attacks math modern analysis datasets outputs docs tests utils
+ 1967  touch main.py README.md requirements.txt
+ 1968  git branch -M main
+ 1969  git add.
+ 1970  git add .
+ 1971  git commit -m "Initialise Project Structure"
+ 1972  git branch -M main
+ 1973  git remote add origin https://github.com/Tanmay083/CryptoLabX_Group06.git
+ 1974  git push -u origin main
+ 1975  git remote add origin https://github.com/Tanmay083/CryptoLabX_Group06.git
+ 1976  git push -u origin main
+ 1977  git config --global user.name "Tanmay083"
+ 1978  git config --global user.email "2024ucp1083@mnit.ac.in"
+ 1979  git commit --amend --reset-author --no-edit
+ 1980  git push --force origin main
+ 1981  git config --global --unset user.name
+ 1982  git config --global --unset user.email
+ 1983  git config --global --unset credential.helper
+ 1984  git config --list --show-origin
+ 1985  ls
+ 1986  git config --global --unset-all user.name
+ 1987  git config --global --unset-all user.email
+ 1988  it config --global --unset-all credential.helper
+ 1989  git config --global --unset-all credential.helper
+ 1990  rm -rf ~/.git-credentials
+ 1991  cd ~ && rm -rf ~/1083
+ 1992  git config --global --list
+ 1993  mkdir 2025UCP1947
+ 1994  cd 2025UCP1947
+ 1995  gedit 1.py
+ 1996  lsb_release -a
+ 1997  sudo apt update
+ 1998  sudo apt upgrade
+ 1999  java --version
+ 2000  uname -r
+ 2001  sonar-scanner --version
+ 2002  which sonar-scanner
+ 2003  sudo apt update
+ 2004  cat /etc/os-release
+ 2005  gcc --version
+ 2006  wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-25.7.0.110598.zip
+ 2007  sudo apt install unzip -y
+ 2008  unzip sonarqube-25.7.0.110598.zip
+ 2009  mv sonarqube-25.7.0.110598 sonarqube
+ 2010  cd sonarqube/bin/linux-x86-64
+ 2011  ./sonar.sh start
+ 2012  ./sonar.sh status
+ 2013  http://localhost:9000
+ 2014  cd ~/2024ucp1558/SAST_Lab/sonarqube/logs
+ 2015  firefox http://localhost:9000
+ 2016  cat sonar.log
+ 2017  pwd
+ 2018  find . -type f
+ 2019  cd ~/2024ucp1558/SAST_Lab/sonarqube/bin/linux-x86-64
+ 2020  ./sonar.sh console
+ 2021  sudo apt update
+ 2022  sudo apt install openjdk-17-jdk -y
+ 2023  update-alternatives --config java
+ 2024  java -version
+ 2025  cd ~/2024ucp1558/SAST_Lab/sonarqube/bin/linux-x86-64
+ 2026  ./sonar.sh console
+ 2027  sonar-scanner --version
+ 2028  cd ~/2024ucp1558/SAST_Lab
+ 2029  wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-7.2.0.5079-linux-x64.zip
+ 2030  unzip sonar-scanner-cli-7.2.0.5079-linux-x64.zip
+ 2031  sudo mv sonar-scanner-7.2.0.5079-linux-x64 /opt/sonar-scanner
+ 2032  export PATH=$PATH:/opt/sonar-scanner/bin
+ 2033  sonar-scanner --version
+ 2034  nano ~/.bashrc
+ 2035  sonar-scanner --version
+ 2036  cd ~/2024ucp1558/SAST_Lab/sonarqube/bin/linux-x86-64
+ 2037  ./sonar.sh start
+ 2038  ./sonar.sh status
+ 2039  cd ~/2024ucp1558/SAST_Lab
+ 2040  mkdir insecure-python
+ 2041  cd insecure-python
+ 2042  nano app.py
+ 2043  nano sonar-project.properties
+ 2044  sonar-scanner -Dsonar.host.url=http://localhost:9000 -Dsonar.token=sqp_f27c26768bb9f4a4d9fa999a12086c569698b616
+ 2045  cd ~/2024ucp1558/SAST_Lab/insecure-python
+ 2046  ls
+ 2047  sonar-scanner -Dsonar.host.url=http://localhost:9000 -Dsonar.token=sqp_f27c26768bb9f4a4d9fa999a12086c569698b616
+ 2048  cd ~/2024ucp1558/SAST_Lab/insecure-python
+ 2049  sonar-scanner -Dsonar.host.url=http://localhost:9000 -Dsonar.token=sqp_f27c26768bb9f4a4d9fa999a12086c569698b616
+ 2050  python3 app.py
+ 2051  import os
+ 2052  import subprocess
+ 2053  import hashlib
+ 2054  import sqlite3
+ 2055  python3 app.py
+ 2056  history > command_history.txt

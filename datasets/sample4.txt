@@ -1,0 +1,5 @@
+Artificial Intelligence enables computers to perform tasks that normally require human intelligence.
+Machine learning is a branch of artificial intelligence.
+Data plays an important role in training intelligent systems.
+AI is widely used in healthcare, education, finance, and transportation.
+Researchers continue to improve AI algorithms every year.

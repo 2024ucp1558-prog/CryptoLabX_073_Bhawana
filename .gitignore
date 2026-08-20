@@ -1,0 +1,4 @@
+*.zip
+SAST_Lab/sonarqube/
+.scannerwork/
+**/.scannerwork/

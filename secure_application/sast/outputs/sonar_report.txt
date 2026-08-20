@@ -1,0 +1,7 @@
+12:11:16.962 INFO  Scanner configuration file: /opt/sonar-scanner/conf/sonar-scanner.properties
+12:11:16.980 INFO  Project root configuration file: NONE
+12:11:17.025 INFO  SonarScanner CLI 7.2.0.5079
+12:11:17.027 INFO  Linux 5.15.0-139-generic amd64
+12:11:18.699 ERROR Failed to query server version: Call to URL [http://localhost:9000/api/v2/analysis/version] failed: Failed to connect to localhost/127.0.0.1:9000
+12:11:18.699 INFO  EXECUTION FAILURE
+12:11:18.701 INFO  Total time: 1.759s

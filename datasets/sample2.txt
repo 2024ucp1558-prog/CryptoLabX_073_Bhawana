@@ -1,0 +1,5 @@
+Cybersecurity protects computer systems, networks, and digital information from attacks.
+Hackers attempt to steal sensitive data using various techniques.
+Strong passwords, encryption, and multi-factor authentication improve security.
+Organizations continuously monitor their systems to detect suspicious activities.
+Learning cybersecurity requires both theoretical knowledge and practical experience.

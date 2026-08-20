@@ -1,0 +1,5 @@
+Python is an easy programming language.
+
+Cryptography protects information.
+
+This is a sample file.
